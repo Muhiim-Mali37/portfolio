@@ -96,3 +96,6 @@ footer {
 h5{
     text-align: center;
 }
+.proj-img:hover{
+    transform: scale(1.05);
+}
