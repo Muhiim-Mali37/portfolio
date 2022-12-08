@@ -1,5 +1,6 @@
 h2 {
     text-align: center;
+    margin-top: 1vw;
 }
 
 .flex-container {
@@ -49,7 +50,7 @@ h2 {
     min-height: 550px;
     background: transparent;
     padding: 20px;
-    /* background-color: #ecbcfd; */
+    background-color: lavender;
 }
 
 .projectParallax {
@@ -83,4 +84,15 @@ h2 {
     width: 30%;
     background: transparent;
 }
-
+h4{
+    text-align: center;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: lavender;
+    color: black
+  }
+h5{
+    text-align: center;
+}
