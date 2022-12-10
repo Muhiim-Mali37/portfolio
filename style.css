@@ -2,6 +2,9 @@ h2 {
     text-align: center;
     margin-top: 1vw;
 }
+body{
+    background-color: black;
+}
 
 .flex-container {
     display: flex;
@@ -19,7 +22,7 @@ h2 {
 
 }
 
-.col-sm-5 {
+.col-lg-4 {
     margin: auto !important;
 }
 
@@ -84,6 +87,7 @@ h2 {
 h4 {
     text-align: center;
     margin-top: 1.4vw;
+    color: white;
 }
 
 footer {
@@ -99,4 +103,12 @@ h5 {
 
 .proj-img:hover {
     transform: scale(1.05);
+}
+.class-wrapper{
+    /* margin-left: 1vw;;
+    margin-right: 1vw; */
+    margin: auto;
+}
+h2{
+    color: white
 }
