@@ -40,7 +40,7 @@ h3 {
     font-family: 'Nunito', sans-serif;
     font-weight: 500;
     font-size: 22px;
-    color: #D6B7B5;
+    /* color: #D6B7B5; */
     padding-left: 50px;
     text-align: center;
     padding-top: 10px;
@@ -185,28 +185,41 @@ h2 {
 
 .text1 {
     background-color: #D45E66;
-    /* color: white; */
+    color: white;
     font-size: 16px;
     padding: 16px 32px;
 }
 
 .text2 {
     background-color: #0869FB;
-    /* color: white; */
+    color: white;
     font-size: 16px;
     padding: 16px 32px;
 }
 
 .text3 {
     background-color: #62B433;
-    /* color: white; */
+    color: white;
     font-size: 16px;
     padding: 16px 32px;
 }
 
 .text4 {
-    background-color: #FFFF00;
-    /* color: white; */
+    background-color: #540375;
+    color: white;
     font-size: 16px;
     padding: 16px 32px;
 }
+.h2color1{
+    color: #D45E66;
+}
+.h2color2{
+    color: #0869FB;
+}
+.h2color3{
+    color: #62B433;
+}
+.h2color4{
+    color: #540375;
+}
+
