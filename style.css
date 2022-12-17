@@ -10,6 +10,12 @@
     padding-right: 40px;
     font-family: 'Baskervville', serif;
 }
+p {
+    font-family: 'Baskervville', serif;
+    color:black;
+    margin-left: 40px;
+    margin-right: 70px;
+  }
 
 .navbar a:hover {
     background-color: rgb(214, 183, 181, 0.4);
