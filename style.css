@@ -204,6 +204,26 @@ h2 {
     font-size: 16px;
     padding: 16px 32px;
 }
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
 
 .text2 {
     background-color: #0869FB;
